@@ -1,4 +1,3 @@
-# Fire-Control-System
 The Fire Control System is a sophisticated prototype designed to simulate the functionality of an automated fire monitoring and management system. By leveraging modern electronic components and microcontroller technology, 
 This project monitors temperature variations using an NTC Thermistor Temperature Sensor, with an LCD displaying real-time data and warnings based on predefined thresholds.
 
