@@ -4,7 +4,7 @@ This project monitors temperature variations using an NTC Thermistor Temperature
 Components :
 
 1.Arduino Nano:
-Acts as the central processing unit for the system and processes input data and controls output devices.
+Acts as the central processing unit for the system and processes input data and controls output  devices.
 
 2.LCD 16x2 Display:
 Used to display system messages,alerts, or sensor readings.
