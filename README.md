@@ -4,10 +4,10 @@ This project monitors temperature variations using an NTC Thermistor Temperature
 Components :
 
 1.Arduino Nano:
-Acts as the central processing unit for the system. It processes input data and controls output devices.
+Acts as the central processing unit for the system and processes input data and controls output devices.
 
-2. LCD 16x2 Display:
-Used to display system messages, alerts, or sensor readings.
+2.LCD 16x2 Display:
+Used to display system messages,alerts, or sensor readings.
 
 3.Breadboard:
 Facilitates connections between components without soldering, enabling a flexible circuit setup.
@@ -31,7 +31,7 @@ Supplies electricity to the entire system.
 measures the ambient temperature and provides real-time data to the microcontroller.
 
 10.Buzzer:
-when the system detects abnormal conditions, such as high temperatures or other fire indicators. Its loud and distinct sound ensures that the alert is easily noticed, even in noisy environments.
+when the system detects abnormal conditions, such as high temperatures or other fire indicators , Its loud and distinct sound ensures that the alert is easily noticed, even in noisy environments.
 
 Key Scenarios:
 
