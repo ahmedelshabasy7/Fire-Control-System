@@ -6,7 +6,7 @@ Components :
 1.Arduino Nano:
 Acts as the central processing unit for the system. It processes input data and controls output devices.
 
-2.16x2 LCD Display:
+2. LCD 16x2 Display:
 Used to display system messages, alerts, or sensor readings.
 
 3.Breadboard:
