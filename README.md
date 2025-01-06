@@ -3,44 +3,48 @@ This project monitors temperature variations using an NTC Thermistor Temperature
 
 Components :
 
-Arduino Nano:
+1.Arduino Nano:
 Acts as the central processing unit for the system. It processes input data and controls output devices.
 
-16x2 LCD Display:
+2.16x2 LCD Display:
 Used to display system messages, alerts, or sensor readings.
 
-Breadboard:
+3.Breadboard:
 Facilitates connections between components without soldering, enabling a flexible circuit setup.
 
-Wires:
+4.Wires:
 Used to connect the components on the breadboard.
 
-Potentiometer:
+5.Potentiometer:
 Adjusts specific system parameters or settings.
 
-LED Indicators:
+6.LED Indicators:
 Provide visual feedback, such as system status or alert notifications.
 
-Resistors:
+7.Resistors:
 Protect the components by limiting the current flow.
 
-Power Source:
+8.Power Source:
 Supplies electricity to the entire system.
 
-NTC Thermistor Temperature Sensor:
+9.NTC Thermistor Temperature Sensor:
 measures the ambient temperature and provides real-time data to the microcontroller.
 
-Buzzer:
+10.Buzzer:
 when the system detects abnormal conditions, such as high temperatures or other fire indicators. Its loud and distinct sound ensures that the alert is easily noticed, even in noisy environments.
 
 Key Scenarios:
 
 Warning: Fire Detected
+
 Condition: Temperature exceeds the warning threshold.
+
 Response: LCD shows "Warning: FIRE!", and a buzzer sounds an alert.
 
 Critical Warning: Dangerous Fire
+
 Condition: Temperature surpasses a higher danger threshold.
+
 Response: LCD displays "Run-away NOW!", the buzzer changes to a more urgent tone, and a red LED activates
 
 Conclusion:
